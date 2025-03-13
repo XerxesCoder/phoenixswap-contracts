@@ -1,7 +1,3 @@
-Here’s the updated `README.md` file tailored for your **PhoniexSwap** contracts on the **VeChain TESTNET**. It includes the deployed contracts with clickable names, the quests, and all other requested details.
-
----
-
 # PhoniexSwap Smart Contracts
 
 PhoniexSwap is a decentralized ecosystem built on the **VeChain**, offering a suite of smart contracts for decentralized finance (DeFi) applications. The ecosystem includes token creation, staking, farming, presales, and more, all powered by secure and efficient smart contracts.
